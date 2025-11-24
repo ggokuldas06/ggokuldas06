@@ -3,7 +3,7 @@ I’m a developer who loves coding and building projects. I’m especially inter
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gokul Das Girish Kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Gokul Das Girish Kumar](https://www.linkedin.com/in/gokul-das-girish-kumar-482610327/))
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokuldasgirishkumar@gmail.com) 
 
 # 💻 Tech Stack:
