@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a developer who loves coding and building projects. I’m especially interested in machine learning, web development, and exploring new tech. I enjoy learning, experimenting, and creating things that solve real problems.<br>If you want it more casual, more professional, or more fun, just tell me!
+I’m a developer who loves coding and building projects. I’m especially interested in machine learning, web development, and exploring new tech. I enjoy learning, experimenting, and creating things that solve real problems.<br>
 
 
 ## 🌐 Socials:
