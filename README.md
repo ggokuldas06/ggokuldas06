@@ -180,12 +180,12 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ggokuldas06&show_icons=true&hide_border=true&title_color=14B8A6&icon_color=2563EB&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ggokuldas06&hide_border=true&background=0D1117&stroke=14B8A6&ring=2563EB&fire=EA4335&currStreakLabel=14B8A6" alt="GitHub streak"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ggokuldas06&show_icons=true&hide_border=true&title_color=14B8A6&icon_color=2563EB&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=ggokuldas06&hide_border=true&background=0D1117&stroke=14B8A6&ring=2563EB&fire=EA4335&currStreakLabel=14B8A6" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggokuldas06&layout=compact&hide_border=true&title_color=14B8A6&text_color=c9d1d9&bg_color=0D1117" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ggokuldas06&layout=compact&hide_border=true&title_color=14B8A6&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top languages"/>
 
 </div>
 
@@ -205,7 +205,7 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+<h3><i>“Float like a Cadillac, sting like a Beemer.”</i> ⚡</h3>
 
 <sub><i>Always building. Always learning.</i> 🚀</sub>
 
