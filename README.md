@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:14B8A6&height=200&section=header&text=Gokul%20Das%20Girish%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20LLM%20Applications%20%C2%B7%20RAG%20%C2%B7%20Backend&descAlignY=60&descSize=18" width="100%" alt="Gokul Das Girish Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:059669,100:34D399&height=200&section=header&text=Gokul%20Das%20Girish%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20LLM%20Applications%20%C2%B7%20RAG%20%C2%B7%20Backend&descAlignY=60&descSize=18" width="100%" alt="Gokul Das Girish Kumar banner"/>
 
 <a href="https://github.com/ggokuldas06">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=I+build+Agentic+AI+systems;LLM-powered+apps+%E2%80%A2+RAG+%E2%80%A2+Multi-agent+workflows;Natural+language+%E2%86%92+SQL+%E2%86%92+insight;FastAPI+%2B+LangGraph+back+ends+%E2%80%A2+Vue+front+ends" alt="Typing SVG"/>
@@ -209,6 +209,6 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 
 <sub><i>Always building. Always learning.</i> 🚀</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:059669,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
