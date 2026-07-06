@@ -1,10 +1,10 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  ggokuldas06 · GitHub Profile README                           ║ -->
+<!-- ║  ggokuldas06 · GitHub Profile README                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:14B8A6&height=200&section=header&text=Gokul%20Das%20Girish%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20LLM%20Applications%20%C2%B7%20RAG%20%26%20Backend%20Engineering&descAlignY=60&descSize=18" width="100%" alt="Gokul Das Girish Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:14B8A6&height=200&section=header&text=Gokul%20Das%20Girish%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20LLM%20Applications%20%C2%B7%20RAG%20%C2%B7%20Backend&descAlignY=60&descSize=18" width="100%" alt="Gokul Das Girish Kumar banner"/>
 
 <a href="https://github.com/ggokuldas06">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=I+build+Agentic+AI+systems;LLM-powered+apps+%E2%80%A2+RAG+%E2%80%A2+Multi-agent+workflows;Natural+language+%E2%86%92+SQL+%E2%86%92+insight;FastAPI+%2B+LangGraph+back+ends+%E2%80%A2+Vue+front+ends" alt="Typing SVG"/>
@@ -23,10 +23,10 @@
 
 ## 🧭 About Me
 
-I’m **Gokul Das** — an AI & ML undergrad pursuing a **B.E. in Artificial Intelligence & Machine Learning** at **Chennai Institute of Technology** (CGPA 8.76) alongside a **B.S. in Data Science** at **IIT Madras** (CGPA 8.13). I build **agentic AI systems**, LLM-powered applications, and data-driven products — the kind that translate messy natural-language intent into real, verifiable action.
+I’m **Gokul Das** — an AI &amp; ML undergrad pursuing a **B.E. in Artificial Intelligence &amp; Machine Learning** at **Chennai Institute of Technology** (CGPA 8.76) alongside a **B.S. in Data Science** at **IIT Madras** (CGPA 8.13). I build **agentic AI systems**, LLM-powered applications, and data-driven products — the kind that translate messy natural-language intent into real, verifiable action.
 
 - 🤖 **Building agentic AI** — multi-agent workflows with **LangGraph** + **LangChain**, custom **MCP** servers, query validation, self-correction, and security guardrails.
-- 🧠 **Deep on RAG & retrieval** — hybrid retrieval (BM25 + semantic search), hierarchical chunking, citation-backed generation, and privacy-preserving offline assistants.
+- 🧠 **Deep on RAG &amp; retrieval** — hybrid retrieval (BM25 + semantic search), hierarchical chunking, citation-backed generation, and privacy-preserving offline assistants.
 - 🛠️ **Backend by default** — **FastAPI**, Django, and Flask on PostgreSQL/Redis, with Celery, SQLAlchemy, and real deployments.
 - 🏆 **Hackathon builder** — 2nd at *Pragyan × Kanini* (1,300+ teams), 3rd at *KHacks 3.0* (1,250+ teams), 3rd at *CIT Code-a-thon* (2,600+).
 - 📜 **Patent holder** — Power Theft Detection (Patent #202541104584A).
@@ -48,7 +48,7 @@ I’m **Gokul Das** — an AI & ML undergrad pursuing a **B.E. in Artificial Int
 
 <br/><br/>
 
-<b>🤖 AI / ML · Generative & Agentic AI</b><br/>
+<b>🤖 AI / ML · Generative &amp; Agentic AI</b><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="TensorFlow, scikit-learn" height="48" />
 <br/>
 <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge" alt="LangGraph" />
@@ -125,7 +125,7 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 <table>
   <tr>
     <td align="center" width="56">🧪</td>
-    <td><b>AI Intern — Spritle Software Solutions</b> &nbsp;·&nbsp; <i>Apr 2025 – Jun 2025</i><br/><sub>On-device vision LLMs for automotive damage detection & repair-cost estimation · voice-routing agent (Google ADK + MCP) · Jira automation & agent observability with CyberGym + OpenLLMetry.</sub></td>
+    <td><b>AI Intern — Spritle Software Solutions</b> &nbsp;·&nbsp; <i>Apr 2025 – Jun 2025</i><br/><sub>On-device vision LLMs for automotive damage detection &amp; repair-cost estimation · voice-routing agent (Google ADK + MCP) · Jira automation &amp; agent observability with CyberGym + OpenLLMetry.</sub></td>
   </tr>
   <tr>
     <td align="center" width="56">🔬</td>
@@ -137,7 +137,7 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements &amp; Recognition
 
 <div align="center">
 
@@ -170,7 +170,7 @@ A fully **offline, multimodal Agentic RAG** legal assistant built during my AI L
 ![IITM](https://img.shields.io/badge/IIT%20Madras-Foundation%20in%20Data%20Science-2E7D32?style=for-the-badge&labelColor=0D1117)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Advanced%20SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
 
-<sub>🎓 <b>B.E. CSE (AI & ML)</b> · Chennai Institute of Technology · CGPA <b>8.76</b> &nbsp;|&nbsp; <b>B.S. Data Science</b> · IIT Madras · CGPA <b>8.13</b> &nbsp;|&nbsp; 2024–2028</sub>
+<sub>🎓 <b>B.E. CSE (AI &amp; ML)</b> · Chennai Institute of Technology · CGPA <b>8.76</b> &nbsp;|&nbsp; <b>B.S. Data Science</b> · IIT Madras · CGPA <b>8.13</b> &nbsp;|&nbsp; 2024–2028</sub>
 
 </div>
 
